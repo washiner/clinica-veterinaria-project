@@ -22,6 +22,8 @@
 Esse projeto foi desenvolvido com Bootstrap:
 
 - BOOTSTRAP
+- HTML
+- CSS
 - Git e Github
 
 ## 💻 Projeto
